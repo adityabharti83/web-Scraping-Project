@@ -73,7 +73,7 @@ Copy code
 
 bash
 cd E:\Project
-git clone https://github.com/your-username/ai_scraper_project.git
+git clone https://github.com/adityabharti83/web-Scraping-Project.git
 cd ai_scraper_project
 
 Or download and unzip the project into any folder
