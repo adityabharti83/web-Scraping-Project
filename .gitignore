@@ -1,0 +1,17 @@
+# Byte‑compiled / cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual env
+venv/
+
+# Playwright browsers (large)
+.playwright/
+
+# Excel outputs
+samples/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
