@@ -78,7 +78,7 @@ cd ai_scraper_project
 
 Or download and unzip the project into any folder
 
-## ✅ Step 2: Create & Activate Virtual Environment
+### ✅ Step 2: Create & Activate Virtual Environment
 bash
 Copy code
 python -m venv venv
