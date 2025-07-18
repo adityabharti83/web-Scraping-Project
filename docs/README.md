@@ -71,14 +71,14 @@ Copy code
 
 ### ✅ Step 1: Clone the Project
 
-```bash
+bash
 cd E:\Project
 git clone https://github.com/your-username/ai_scraper_project.git
 cd ai_scraper_project
 
 Or download and unzip the project into any folder
 
-### ✅ Step 2: Create & Activate Virtual Environment
+## ✅ Step 2: Create & Activate Virtual Environment
 bash
 Copy code
 python -m venv venv
